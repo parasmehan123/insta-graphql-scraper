@@ -1,6 +1,7 @@
 # Instagram Time ID converter
 
 import datetime
+import sys
 
 
 def get_location() -> str:
